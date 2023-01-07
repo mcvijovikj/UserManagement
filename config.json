@@ -1,0 +1,13 @@
+{
+    "dbConfig": {
+        "username": "metodija",
+        "password": "metodija123",
+        "clusterName": "cluster0.c7pruuy.mongodb.net",
+        "databaseName": "melon-test"
+    },
+    "hostname": "localhost",
+    "port": "4444",
+    "security": {
+        "jwt_secret_key": "NodeJS is powerful and awesome!"
+    }
+}
